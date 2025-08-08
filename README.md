@@ -76,18 +76,3 @@ java -cp bin model.Main
 - **Observer Pattern**: For notifying users about reserved items
 - **Singleton Pattern**: For the Library class to ensure only one instance exists
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-[Your Name]
-
-## Acknowledgments
-
-- [List any references or inspiration here]
